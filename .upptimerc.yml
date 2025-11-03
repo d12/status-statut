@@ -102,6 +102,26 @@ sites:
       - pwei-gc
       - Reidmar
       - iamnvc 
+  - name: GC Sign in - Website (en)
+    url: https://sign-in.canada.ca/
+    assignees:
+      - MahamoudTBS
+      - d12
+      - melodyhabb
+      - astaylordev
+  - name: GC Sign in - Website (fr)
+    url: https://connexion.canada.ca/
+    assignees:
+      - MahamoudTBS
+      - d12
+      - melodyhabb
+      - astaylordev
+  - name: GC Sign in - Profile management application
+    url: https://app.signin-connexion.canada.ca/
+    assignees:
+      - MahamoudTBS
+      - d12
+      - astaylordev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
